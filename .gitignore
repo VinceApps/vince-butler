@@ -1,0 +1,21 @@
+#idea project settings
+.idea
+*.iml
+
+#eclipse project settings
+*.classpath
+*.project
+*.settings
+
+#auto generated stuff
+target
+**/src/main/generated/*
+
+# Office backup files
+~$*
+
+# OS X system files
+.DS_Store
+
+# files with passwords and stuff
+secret.properties
